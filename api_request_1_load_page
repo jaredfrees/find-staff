@@ -1,4 +1,6 @@
-1. Load Page
+[Request]
+
+{header}
 
 GET https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL HTTP/1.1
 Connection: keep-alive
@@ -8,6 +10,14 @@ Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/a
 Accept-Language: en-US,en;q=0.9
 Host: courses.osu.edu
 
+{body}
+
+(empty)
+
+
+[Response]
+
+{header}
 
 HTTP/1.1 302 Moved Temporarily
 Date: Sat, 27 Oct 2018 21:48:57 GMT
@@ -18,3 +28,11 @@ Connection: close
 Content-Type: text/html; charset=UTF-8
 Set-Cookie: NSC_NX-DTPTV-DPVSTFT-TTM-WT=ffffffff8ff60a6045525d5f4f58455e445a4a4206ab;Version=1;Max-Age=1800;path=/;secure;httponly
 
+{body}
+
+<html><head><title>302 Moved Temporarily</title></head>
+<body bgcolor="#FFFFFF">
+<p>This document you requested has moved 
+temporarily.</p>
+<p>It's now at <a href="https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&amp;">https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&amp;</a>.</p>
+</body></html>
