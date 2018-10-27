@@ -1,0 +1,1021 @@
+1.b. Redirect from 1.
+
+
+[Request]
+
+{header}
+
+GET https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?& HTTP/1.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Language: en-US,en;q=0.9
+Cookie: hcwebprd12-15000-PORTAL-PSJSESSIONID=uma3gGVcaUTdEsZUXYWwecPrmpsRLCYl!-1968237489; NSC_NX-DTPTV-DPVSTFT-TTM-WT=ffffffff8ff60a6045525d5f4f58455e445a4a4206ab
+Host: courses.osu.edu
+
+
+
+
+[Response]
+
+{header}
+
+HTTP/1.1 200 OK
+Date: Sat, 27 Oct 2018 21:48:57 GMT
+Server: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Length: 51964
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+IgnorePortalRegisteredURL: 1
+PortalRegisteredURL: https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL
+UsesPortalRelativeURL: true
+Set-Cookie: hcwebprd12-15000-PORTAL-PSJSESSIONID=M3G3gGYKw5ulWR3q-qKSgmQTrrucVXF6!-1968237489; domain=.osu.edu; path=/; HttpOnly
+Set-Cookie: ExpirePage=https://courses.osu.edu/psc/csosuct/; domain=.osu.edu; path=/; secure
+Set-Cookie: PS_LOGINLIST=https://courses.osu.edu/csosuct; domain=.osu.edu; path=/; secure
+Set-Cookie: PS_TOKENEXPIRE=27_Oct_2018_21:48:57_GMT; domain=.osu.edu; path=/; secure
+Set-Cookie: PS_TOKEN=rQAAAAQDAgEBAAAAvAIAAAAAAAAsAAAABABTaGRyAk4AgQg4AC4AMQAwABQvcgZsXEzG4qUYXQgvevcsZ1vAgm0AAAAFAFNkYXRhYXicHYpLDkBAEETfIE5g5Q4m/uwnww7xWTuLezmcMp1Udb1KPUASR8bovxHhcsfKxc6Bl25m0Z9OUs8izDbRJL5xSqt00daUVIwU8lJeM4TcYGnVWzo1NjS91GnFB9zGDtU=; domain=.osu.edu; path=/; secure
+Set-Cookie: PS_DEVICEFEATURES=new:1; domain=.osu.edu; path=/; secure
+Set-Cookie: SignOnDefault=; domain=.osu.edu; path=/; secure
+Connection: close
+Content-Type: text/html; CHARSET=UTF-8
+Set-Cookie: NSC_NX-DTPTV-DPVSTFT-TTM-WT=ffffffff8ff60a6045525d5f4f58455e445a4a4206ab;Version=1;Max-Age=1800;path=/;secure;httponly
+
+
+
+
+{body}
+
+<!DOCTYPE html>
+<html class='pc chrome mac psc_dir-ltr psc_form-xlarge' dir='ltr' lang='en'>
+<!-- Copyright (c) 2000, 2015, Oracle and/or its affiliates. All rights reserved. -->
+<!-- CHROME/69.0/MAC; ToolsRel=8.55.23; User=COURSES_GUEST; DB=CSOSU/ORACLE; AppServ=//hcappprd03.it.ohio-state.edu:10260; -->
+<head>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script language='JavaScript'>
+var  totalTimeoutMilliseconds = 2073600000; 
+var  warningTimeoutMilliseconds = 2073600000; 
+var timeOutURL = 'https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/?cmd=expire';
+var timeoutWarningPageURL = 'https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/s/WEBLIB_TIMEOUT.PT_TIMEOUTWARNING.FieldFormula.IScript_TIMEOUTWARNING';
+var sRCRequestURL = 'https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/s/WEBLIB_PTRC.ISCRIPT1.FieldFormula.IScript_RC_REQUEST';
+</script> 
+
+<link id=PSSTYLEREQ_2_css rel='stylesheet' type='text/css' href='/cs/csosuct/cache85523/PSSTYLEREQ_2.css' />
+<link id=SSS_STYLESHEET_1_css rel='stylesheet' type='text/css' href='/cs/csosuct/cache85523/SSS_STYLESHEET_1.css' />
+<title>Class Search</title>
+<script LANGUAGE='JavaScript'>
+try {
+document.domain = "osu.edu";
+}
+catch(err) {;}
+</script>
+<script language='JavaScript'>
+var winName='win0';
+var winParent = null;
+var modalID = null;
+var modalZoomName = null;
+var baseKey_win0 = "\x1b\r\n";
+var altKey_win0 = "0J5678\xbc\xbe\xbf\xde";
+var ctrlKey_win0 = "JK";
+var saveWarningKeys_win0 = "";
+var firstFocusID = null;
+var isNewSaveWarn = true;
+var bAccessibility_win0 =false;
+var bFMode =false;
+var bDoModal_win0 = false;
+var bJSModal_win0 = false;
+var bPromptPage_win0 = false;
+var bTabOverTB_win0 = false;
+var bTabOverPg_win0 = false;
+var bTabOverNonPS_win0 = false;
+var strCurrUrl='https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?PAGE=SSR_CLSRCH_ENTRY';
+var strReqURL='';
+var bIncInNavigation='T';
+var szPinCrefReg='F';
+var szCrefID='yyy';
+var szCrefReged='F';
+var szCrefVisible='F';
+var szCrefLabel='zzz';
+var localNodes = ['BUCK', 'CAMP', 'COURSES', 'DELG', 'HRMS', 'PSFT_CSOSU', 'PSFT_HR', 'PUB'];
+var remoteUrls = ['https://portal.erp.ohio-state.edu/psp/sihosubl/EMPLOYEE/BUCKH', 'https://portal.erp.ohio-state.edu/psp/sihosu/EMPLOYEE/EMPL', 'https://hc.erp.ohio-state.edu/psp/shrosuhc/EMPLOYEE/PSFT_HROSU', 'https://portal.erp.ohio-state.edu/psp/ihosu/EMPLOYEE/PSFT_IHOSU', 'https://portal.erp.ohio-state.edu/psp/ihosuct/EMPLOYEE/PUBLH'];
+bGenDomInfo = false;
+var szCalendarType = 'G';
+var bMenuSrchPage = false;
+var bGuidedAG = false;
+var bWSRP=0;var szMenuSrchText = "-999999-";
+var disablePNSubscriptions=1;var modalCloseUrl = '/cs/csosuct/cache85523/PT_TRANS_16PIX_1.png';
+var modalCloseAlt = 'Close';
+var modalResizeUrl= '/cs/csosuct/cache85523/PT_RESIZE_IMG_1.gif';
+var modalResizeAlt = 'Drag to resize';
+var modalMoveAlt = 'Drag to move';
+</script>
+<script LANGUAGE='JavaScript'>
+try {
+document.domain = "osu.edu";
+}
+catch(err) {;}
+</script>
+<script language='JavaScript' type='text/javascript' src='/cs/csosuct/cache85523/PT_COMMON_MIN_99749.js'>
+</script>
+<script language='JavaScript' type='text/javascript' src='/cs/csosuct/cache85523/PT_AJAX_NET_MIN_99749.js'>
+</script>
+<script language='JavaScript' type='text/javascript' src='/cs/csosuct/cache85523/PT_SAVEWARNINGSCRIPT_MIN_99749.js'>
+</script>
+<script language='JavaScript' type='text/javascript' src='/cs/csosuct/cache85523/PT_PAGESCRIPT_win0_MIN_99749.js'>
+</script>
+<script language='JavaScript' type='text/javascript' src='/cs/csosuct/cache85523/PT_EDITSCRIPT_win0_MIN_99749.js'>
+</script>
+<script language='JavaScript' type='text/javascript' src='/cs/csosuct/cache85523/PT_RC_JS_MIN_99749.js'>
+</script>
+<script language='JavaScript' type='text/javascript' src='/cs/csosuct/cache85523/PT_POPUPSCRIPT_win0_MIN_99749.js'>
+</script>
+<script language='JavaScript' type='text/javascript' src='/cs/csosuct/cache85523/PT_GRIDSCRIPT_win0_MIN_99749.js'>
+</script>
+<link id=OSU_BR_GEN_1_css rel='stylesheet' type='text/css' href='/cs/csosuct/cache85523/OSU_BR_GEN_1.css' />
+<script language='JavaScript'>
+var nResubmit=0;
+var nLastAction=0;
+var loader=null;
+if (typeof(bCleanHtml) == 'undefined')
+	var bCleanHtml = false;
+setupTimeout2();
+var postUrl_win0='https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL';
+function aAction_win0(form, id, params, bAjax, bPrompt, sAjaxTrfUrl, bWarning, sScriptAfter, nTrfURLType)
+{
+setupTimeout2();
+if ((id != '#ICSave'))
+processing_win0(1,3000);
+aAction0_win0(form, id, params, bAjax, bPrompt, sAjaxTrfUrl, bWarning, sScriptAfter, nTrfURLType);
+}
+function submitAction_win0(form, id, event, sAjaxTrfUrl, bWarning, sScriptAfter, nTrfURLType)
+{
+setupTimeout2();
+if (!ptCommonObj2.isICQryDownload(form, id))
+ { processing_win0(1,3000); }
+preSubmitProcess_win0(form, id);
+var spellcheckpos = id.indexOf('$spellcheck');
+if ((spellcheckpos != -1) && (id.indexOf('#KEYA5') != -1))
+	form.ICAction.value = id.substring(0,spellcheckpos);
+else 
+	form.ICAction.value=id;
+var actionName = form.ICAction.value;
+form.ICXPos.value=ptCommonObj2.getScrollX();
+form.ICYPos.value=ptCommonObj2.getScrollY();
+bcUpdater.storeBcDomData();
+if ((typeof(bAutoSave) != 'undefined') && bAutoSave)
+	form.ICAutoSave.value = '1';
+if (!ptCommonObj2.isAJAXReq(form, id) && !ptCommonObj2.isPromptReq(id)){
+if (nLastAction == 1 && nResubmit > 0) return;
+form.ICResubmit.value=nResubmit;
+form.submit();
+if (!ptCommonObj2.isICQryDownload(form, id))
+	nResubmit++;
+}
+else if (ptCommonObj2.isPromptReq(id))
+	pAction_win0(form, id, arguments[2]);
+else
+	aAction_win0(form, actionName, null, true, false, sAjaxTrfUrl, bWarning, sScriptAfter, nTrfURLType);
+cancelBubble(event);
+}
+</script>
+<script language='javascript'>
+var pt_calHeadstyle=" class='PTCALHEAD' "
+var pt_calWeekHeadstyle=" class='PTCALWEEKHEAD' "
+function dateitemrefs()
+{
+this.pt_dateheader = "/cs/csosuct/cache85523/PT_PORTAL_IC_CLOSE_SD_1.gif";
+this.pt_datering = "/cs/csosuct/cache85523/PT_CURRENT_DATE_SD_1.gif";
+this.pt_datesel = "/cs/csosuct/cache85523/PT_SELECTED_DATE_SD_1.gif";
+this.pt_nextmonth = "/cs/csosuct/cache85523/PT_RIGHT_SCROLL_SD_1.gif";
+this.pt_prevmonth= "/cs/csosuct/cache85523/PT_LEFT_SCROLL_SD_1.gif";
+this.pt_daystitle_hijri = "/cs/csosuct/cache85523/PT_DATE_TITLE_S6_1.GIF";
+this.pt_daystitle_thai = "/cs/csosuct/cache85523/PT_DATE_TITLE_S0_1.GIF";
+this.pt_daystitle_s0 = "/cs/csosuct/cache85523/PT_DATE_TITLE_S0_1.GIF";
+this.pt_daystitle_m1 = "/cs/csosuct/cache85523/PT_DATE_TITLE_M1_1.GIF";
+this.pt_daystitle_t2 = "/cs/csosuct/cache85523/PT_DATE_TITLE_T2_1.GIF";
+this.pt_daystitle_w3 = "/cs/csosuct/cache85523/PT_DATE_TITLE_W3_1.GIF";
+this.pt_daystitle_t4 = "/cs/csosuct/cache85523/PT_DATE_TITLE_T4_1.GIF";
+this.pt_daystitle_f5 = "/cs/csosuct/cache85523/PT_DATE_TITLE_F5_1.gif";
+this.pt_daystitle_s6 = "/cs/csosuct/cache85523/PT_DATE_TITLE_S6_1.GIF";
+}
+ 
+function LoadCalendar()
+{
+var dateitems = new dateitemrefs();
+loadImages(dateitems);
+}
+function DatePrompt0_win0(dtfield,promptfield,yrfmt,bsubmit)
+{
+setupTimeout2();
+openDate_win0(dtfield, promptfield, "MDY/"+yrfmt,bsubmit,"G",0);
+}
+</script>
+<script language='JavaScript'  ptdefer='defer'>
+if (typeof ptStyleSheet == "undefined") {
+ptStyleSheet = 'SSS_STYLESHEET';
+}
+function onLoadExt_win0() {
+modalZoomName = null;
+var pt_pageinfo = document.getElementById('pt_pageinfo_win0');
+if (pt_pageinfo) {
+pt_pageinfo.setAttribute('Page', 'SSR_CLSRCH_ENTRY');
+pt_pageinfo.setAttribute('Component', 'CLASS_SEARCH');
+pt_pageinfo.setAttribute('Menu', 'COMMUNITY_ACCESS');
+pt_pageinfo.setAttribute('Mode', 'CLASSIC');
+}
+g_bAccessibilityMode=false;
+var actn='';
+if (!isCrossDomainTop()) top.document.title=document.title;
+setKeyEventHandler_win0();ptEvent.add(window,'scroll',positionWAIT_win0);
+ptCommonObj2.generateABNSearchResults(document.win0);
+getGblSrchPageNum(actn);
+if (gSrchRsltPageNum <= 5) getAllRelatedActions();
+
+ptCommonObj2.moveUnivSrchDiv();
+if (typeof(ptLongEditCounter) != 'undefined' && ptLongEditCounter != null)
+   ptLongEditCounter.onLoadLongEditCounter();
+if (typeof(HelppopupObj_win0) != 'undefined' && HelppopupObj_win0 != null)
+ HelppopupObj_win0.StopPopup('win0');ResetGlyph_win0();
+if (typeof ptGridObj_win0 != 'undefined' && ptGridObj_win0)
+ ptGridObj_win0.clearGridArr();
+objToBeFocus = null;
+if (typeof oWin == 'undefined') setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+ else
+ oWin.setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+setFocus_win0('DERIVED_CLSMSG_SSR_MSG_PB',-1);
+ptLoadingStatus_empty(0);
+setupTimeout2();
+processing_win0(0,3000);
+ptConsole2.enable();
+
+UpdateBreadCrumbs();
+GenerateABN();
+GenerateFakeBC();
+bcUpdateForPTF();if (typeof(myAppsWindowOpenJS) != 'undefined' && myAppsWindowOpenJS != null && myAppsWindowOpenJS != '')
+ {
+try {eval(myAppsWindowOpenJS);} catch(e) {}
+  myAppsWindowOpenJS=null;
+}
+ResetGlyph_win0();setPageletInfoInCtxmenu_win0("false");
+GetDomData(win0, "TargetContent", "#GetDomInfo");
+}
+try{ptEvent.load(onLoadExt_win0);}catch(e){}
+</script></head>
+<body tabindex='-1'  class='PSPAGE' >
+<DIV id='pt_envinfo_win0' Browser='CHROME/69.0/MAC' User='COURSES_GUEST' DB='CSOSU/ORACLE' AppServ='//hcappprd03.it.ohio-state.edu:10260' ToolsRel='8.55.23'></DIV>
+<DIV id='pt_pageinfo_win0' Page='SSR_CLSRCH_ENTRY' Component='CLASS_SEARCH' Menu='COMMUNITY_ACCESS' Mode='%Mode'><!----></DIV>
+<form id='CLASS_SEARCH' name='win0' method='post' action="https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL"  autocomplete='off' class='PSForm'>
+<DIV class='ps_box-toolshiddens'  id='win0divPSTOOLSHIDDENS'><div class='ps_modalmask_cover psc_hidden' id='pt_modalMaskCover'>&nbsp;</div><div class='ps_modalmask psc_hidden' id='pt_modalMask'>&nbsp;</div><div id='pt_modals' class='PSMODAL'><div id='ptModalShadow' class='popupDragFrame' style='cursor:nw-resize'>&nbsp;</div></div>
+<div class='ps_ajax_console psc_hidden' id='pt_console'></div><div class='ps_typeahead psc_hidden' id='pt_typeahead0'><span id='pt_typeahead' class='spanTextDropdown'>&nbsp;</span></div><div id='WAIT_win0' style='display:none;position:absolute;right:0;'><img id='processing' align='left' src='/cs/csosuct/cache85523/PT_PROCESSING_1.gif' alt='Processing... please wait' title='Processing... please wait' /></div>
+ <div style='visibility:hidden; display:none; position:absolute;left:-10000px;top:auto; width:1px; height:1px;overflow:hidden;' aria-relevant='text additions'  aria-live='assertive' aria-atomic='true' class='psc_processing psc_hidden' id='Delayed_win0'>&nbsp;</div><div id='SAVED_win0' style='display:none;position:absolute;right:0;'><table border='0' cellpadding='0' cellspacing='0'><tr><td><img src='/cs/csosuct/cache85523/PTPORTAL_POPBOX_LEFT_1.gif' width='7' height='39' border='0' alt=''/></td><td id='saveWait_win0' width='35' align='center' valign='middle' background='/cs/csosuct/cache85523/PTPORTAL_POPBOX_CENTER_1.gif'><img src='/cs/csosuct/cache85523/PT_LOADER_1.gif' width='24' height='24' alt=''/></td><td nowrap='nowrap' background='/cs/csosuct/cache85523/PTPORTAL_POPBOX_CENTER_1.gif'><span id='ptStatusText_win0' dir='ltr' class='PSPROCESSING'>&nbsp;</span></td><td><img src='/cs/csosuct/cache85523/PTPORTAL_POPBOX_RIGHT_1.gif' width='6' height='39' alt=''/></td><td>&nbsp;</td></tr></table></div><DIV class='x'  id='win0divPSHIDDENFIELDS' style='display:none'><input type='hidden' name='ICType' id='ICType' value='Panel' />
+<input type='hidden' name='ICElementNum' id='ICElementNum' value='0' />
+<input type='hidden' name='ICStateNum' id='ICStateNum' value='1' />
+<input type='hidden' name='ICAction' id='ICAction' value='None' />
+<input type='hidden' name='ICModelCancel' id='ICModelCancel' value='0' />
+<input type='hidden' name='ICXPos' id='ICXPos' value='0' />
+<input type='hidden' name='ICYPos' id='ICYPos' value='0' />
+<input type='hidden' name='ResponsetoDiffFrame' id='ResponsetoDiffFrame' value='-1' />
+<input type='hidden' name='TargetFrameName' id='TargetFrameName' value='None' />
+<input type='hidden' name='FacetPath' id='FacetPath' value='None' />
+<input type='hidden' name='ICFocus' id='ICFocus' value='' />
+<input type='hidden' name='ICSaveWarningFilter' id='ICSaveWarningFilter' value='0' />
+<input type='hidden' name='ICChanged' id='ICChanged' value='-1' />
+<input type='hidden' name='ICSkipPending' id='ICSkipPending' value='0' />
+<input type='hidden' name='ICAutoSave' id='ICAutoSave' value='0' />
+<input type='hidden' name='ICResubmit' id='ICResubmit' value='0' />
+<input type='hidden' name='ICSID' id='ICSID' value='gNLPmdnuTCkT3ufhf9UbwYKAb+6Inu7qFEGcqLQnnGQ=' />
+<input type='hidden' name='ICActionPrompt' id='ICActionPrompt' value='false' />
+<input type='hidden' name='ICBcDomData' id='ICBcDomData' value='' />
+<input type='hidden' name='ICPanelName' id='ICPanelName' value='' />
+<input type='hidden' name='ICFind' id='ICFind' value='' />
+<input type='hidden' name='ICAddCount' id='ICAddCount' value='' />
+<input type='hidden' name='ICAPPCLSDATA' id='ICAPPCLSDATA' value='' />
+</DIV>
+</DIV>
+<a name='ICFirstAnchor_win0' id='ICFirstAnchor_win0'></a>
+<DIV class='ps_header_panel' id='PT_HEADER_PANEL'></DIV>
+<DIV class='' id='win0divPAGEBAR'></DIV>
+<DIV class='ps_box-pagetabs psc_hidden' id='win0divPSPANELTABS'></DIV>
+<DIV class='ps_pagecontainer' id='win0divPAGECONTAINER'><table class='PSPAGECONTAINER' role='main' aria-labelledby='app_label'><tr><td>
+<DIV class='ps_pspagecontainer' id='win0divPSPAGECONTAINER'><table role='presentation'  border='0' id='ACE_width' cellpadding='0' cellspacing='0' class='PSPAGECONTAINER' cols='4' width='679'>
+<tr>
+<td width='4' height='0'></td>
+<td width='544'></td>
+<td width='16'></td>
+<td width='115'></td>
+</tr>
+<tr>
+<td height='52'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_GROUPBOX2'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='543'>
+<tr><td class='PAGROUPBOXLABELINVISIBLE'  align='left'>Groupbox</td></tr>
+<tr><td width='541'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_GROUPBOX2' cellpadding='0' cellspacing='0' cols='3' width='541' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='7' height='0'></td>
+<td width='2'></td>
+<td width='532'></td>
+</tr>
+<tr>
+<td height='22' colspan='2'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SS_TRANSACT_TITLE'><span    aria-disabled='true'role='heading' aria-level='1'  class='PATRANSACTIONTITLE' id='DERIVED_CLSRCH_SS_TRANSACT_TITLE'>Search for Classes</span><!-- DERIVED_CLSRCH_SS_TRANSACT_TITLE -->
+</DIV></td>
+</tr>
+<tr>
+<td height='18'></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV   id='win0divDERIVED_CLSRCH_SSR_CLASS_LBLlbl'><span  class='PAPAGETITLE' >Enter Search Criteria</span></DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='4' colspan='4'></td>
+</tr>
+<tr>
+<td height='351'></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_GROUP2'><table cellpadding='2' cellspacing='0' cols='1'  class='PSGROUPBOXWBO'  width='559'>
+<tr><td class='PSGROUPBOXLABEL'  align='left'>Search for Classes</td></tr>
+<tr><td width='557'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_GROUP2' cellpadding='0' cellspacing='0' cols='4' width='557' class='PSGROUPBOX' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='520'></td>
+<td width='28'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='86'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_GROUP3'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='519'>
+<tr><td class='PAGROUPBOXLABELINVISIBLE'  align='left'>Class Search Criteria</td></tr>
+<tr><td width='517'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_GROUP3' cellpadding='0' cellspacing='0' cols='4' width='517' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='428'></td>
+<td width='68'></td>
+<td width='18'></td>
+</tr>
+<tr>
+<td height='24'></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0div$ICField171'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='495'>
+<tr><td width='493'>
+<table role='presentation'  border='0' id='ACE_$ICField171' cellpadding='0' cellspacing='0' cols='3' width='493' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='4'></td>
+<td width='144'></td>
+<td width='346'></td>
+</tr>
+<tr>
+<td height='18'></td>
+<td  valign='top' align='left'>
+<DIV   id='win0divCLASS_SRCH_WRK2_INSTITUTION$31$lbl'><label for='CLASS_SRCH_WRK2_INSTITUTION$31$' id='CLASS_SRCH_WRK2_INSTITUTION$31$_LBL' class='PSDROPDOWNLABEL' >Institution</label></DIV></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divCLASS_SRCH_WRK2_INSTITUTION$31$'><select name='CLASS_SRCH_WRK2_INSTITUTION$31$' id='CLASS_SRCH_WRK2_INSTITUTION$31$' tabindex='20' size='1'  class='PSDROPDOWNLIST' style='width:220px; ' onchange="addchg_win0(this);submitAction_win0(this.form,this.id);/*a000,200000*/" onkeydown="if ((typeof isLoaderInProcess == 'function') && isLoaderInProcess() && ptCommonObj2!=null) { ptCommonObj2.terminateEvent(event); } " >
+<option value="">&nbsp; </option>
+<option value="OSUSI" selected='selected'>The Ohio State University</option>
+</select>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='25'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_GROUP1'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='427'>
+<tr><td width='425'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_SSR_GROUP1' cellpadding='0' cellspacing='0' cols='3' width='425' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='144'></td>
+<td width='278'></td>
+</tr>
+<tr>
+<td height='15'></td>
+<td  valign='top' align='left'>
+<DIV   id='win0divCLASS_SRCH_WRK2_STRM$35$lbl'><label for='CLASS_SRCH_WRK2_STRM$35$' id='CLASS_SRCH_WRK2_STRM$35$_LBL' class='PSDROPDOWNLABEL' >Term</label></DIV></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divCLASS_SRCH_WRK2_STRM$35$'><select name='CLASS_SRCH_WRK2_STRM$35$' id='CLASS_SRCH_WRK2_STRM$35$' tabindex='21' size='1'  class='PSDROPDOWNLIST' style='width:220px; ' onchange="addchg_win0(this);submitAction_win0(this.form,this.id);/*a000,200000*/" onkeydown="if ((typeof isLoaderInProcess == 'function') && isLoaderInProcess() && ptCommonObj2!=null) { ptCommonObj2.terminateEvent(event); } " >
+<option value="">&nbsp; </option>
+<option value="1188">Autumn 2018</option>
+<option value="1192">Spring 2019</option>
+<option value="1184" selected='selected'>Summer 2018</option>
+</select>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='0' colspan='4'></td>
+</tr>
+<tr>
+<td height='29'></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0div$ICField252'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='495'>
+<tr><td width='493'>
+<table role='presentation'  border='0' id='ACE_$ICField252' cellpadding='0' cellspacing='0' cols='3' width='493' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='7' height='4'></td>
+<td width='436'></td>
+<td width='50'></td>
+</tr>
+<tr>
+<td height='23'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField143'><span    class='PAPAGEINSTRUCTIONS' >Select at least 2 search criteria.  Select Search to view your search results.</span>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='3' colspan='4'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='220'></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_GROUP4'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='547'>
+<tr><td width='545'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_GROUP4' cellpadding='0' cellspacing='0' cols='3' width='545' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='536'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='206'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField193$0'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  id='$ICField193$scroll$0' onclick="getScrollTableId('$ICField193$scroll$0')" width='535'>
+<tr><td width='533'>
+<table role='presentation'  border='0' id='ACE_$ICField193$0' cellpadding='0' cellspacing='0' cols='4' width='533' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='0'></td>
+<td width='504'></td>
+<td width='24'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='16'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS$0'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='503'>
+<tr><td class='PAGROUPBOXLABELINVISIBLE'  align='left'>Required - If you fail to enter a campus, you risk scheduling a class on the wrong campus.</td></tr>
+<tr><td width='501'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$0' cellpadding='0' cellspacing='0' cols='3' width='501' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='20'></td>
+<td width='478'></td>
+</tr>
+<tr>
+<td height='1'></td>
+<td rowspan='2' nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$0'><a name='DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$0' id='DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$0'   role='button' tabindex='38' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$0');"><img src='/cs/csosuct/cache85523/PS_COLLAPSE_ICN_1.gif' name='DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$IMG$0'  alt='Required - If you fail to enter a campus, you risk scheduling a class on the wrong campus.' title='Required - If you fail to enter a campus, you risk scheduling a class on the wrong campus.' border='0' /></a><!-- DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$0 -->
+</DIV></td>
+</tr>
+<tr>
+<td height='10'></td>
+<td  valign='top' align='left'>
+<DIV   id='win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS$255$lbl$0'><span  class='PSEDITBOXLABEL' >Required - If you fail to enter a campus, you risk scheduling a class on the wrong campus.</span></DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='37'></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_GROUP_BOX_1$0'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='527'>
+<tr><td width='525'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_SSR_GROUP_BOX_1$0' cellpadding='0' cellspacing='0' cols='3' width='525' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='520'></td>
+<td width='2'></td>
+</tr>
+<tr>
+<td height='33'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField232$0'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  id='$ICField232$scrolli$0' onclick="getScrollTableId('$ICField232$scrolli$0')" width='519'>
+<tr><td width='517'>
+<table role='presentation'  border='0' id='ACE_$ICField232$0' cellpadding='0' cellspacing='0' cols='3' width='517' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='27' height='8'></td>
+<td width='120'></td>
+<td width='370'></td>
+</tr>
+<tr>
+<td height='23'></td>
+<td  valign='top' align='left'>
+<DIV   id='win0divSSR_CLSRCH_WRK_CAMPUSlbl$0'><label for='SSR_CLSRCH_WRK_CAMPUS$0' id='SSR_CLSRCH_WRK_CAMPUS_LBL$0' class='PSDROPDOWNLABEL' >Campus</label></DIV></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_WRK_CAMPUS$0'><select name='SSR_CLSRCH_WRK_CAMPUS$0' id='SSR_CLSRCH_WRK_CAMPUS$0' tabindex='95' size='1'  class='PSDROPDOWNLIST' style='width:194px; ' onchange="addchg_win0(this);submitAction_win0(this.form,this.id);/*2000,200000*/" onkeydown="if ((typeof isLoaderInProcess == 'function') && isLoaderInProcess() && ptCommonObj2!=null) { ptCommonObj2.terminateEvent(event); } " >
+<option value="" selected='selected'>&nbsp; </option>
+<option value="COL">Columbus</option>
+<option value="LMA">Lima</option>
+<option value="MNS">Mansfield</option>
+<option value="MRN">Marion</option>
+<option value="NWK">Newark</option>
+<option value="WST">Wooster</option>
+</select>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='3' colspan='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='4' colspan='4'></td>
+</tr>
+<tr>
+<td height='16'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS$1'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='503'>
+<tr><td class='PAGROUPBOXLABELINVISIBLE'  align='left'>Class Search (select at least 2)</td></tr>
+<tr><td width='501'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$1' cellpadding='0' cellspacing='0' cols='3' width='501' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='20'></td>
+<td width='478'></td>
+</tr>
+<tr>
+<td height='1'></td>
+<td rowspan='2' nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$1'><a name='DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$1' id='DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$1'   role='button' tabindex='129' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$1');"><img src='/cs/csosuct/cache85523/PS_COLLAPSE_ICN_1.gif' name='DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$IMG$1'  alt='Class Search (select at least 2)' title='Class Search (select at least 2)' border='0' /></a><!-- DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$1 -->
+</DIV></td>
+</tr>
+<tr>
+<td height='10'></td>
+<td  valign='top' align='left'>
+<DIV   id='win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS$255$lbl$1'><span  class='PSEDITBOXLABEL' >Class Search (select at least 2)</span></DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='113'></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_GROUP_BOX_1$1'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='527'>
+<tr><td width='525'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_SSR_GROUP_BOX_1$1' cellpadding='0' cellspacing='0' cols='3' width='525' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='520'></td>
+<td width='2'></td>
+</tr>
+<tr>
+<td height='109'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField232$1'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  id='$ICField232$scrolli$1' onclick="getScrollTableId('$ICField232$scrolli$1')" width='519'>
+<tr><td width='517'>
+<table role='presentation'  border='0' id='ACE_$ICField232$1' cellpadding='0' cellspacing='0' cols='4' width='517' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='27' height='8'></td>
+<td width='120'></td>
+<td width='216'></td>
+<td width='154'></td>
+</tr>
+<tr>
+<td height='19'></td>
+<td  valign='top' align='left'>
+<DIV   id='win0divSSR_CLSRCH_WRK_SUBJECT_SRCHlbl$1'><label for='SSR_CLSRCH_WRK_SUBJECT_SRCH$1' id='SSR_CLSRCH_WRK_SUBJECT_SRCH_LBL$1' class='PSDROPDOWNLABEL' >Subject</label></DIV></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_WRK_SUBJECT_SRCH$1'><select name='SSR_CLSRCH_WRK_SUBJECT_SRCH$1' id='SSR_CLSRCH_WRK_SUBJECT_SRCH$1' tabindex='143' size='1'  class='PSDROPDOWNLIST' style='width:194px; ' onchange="addchg_win0(this);return doEdits_win0(this,'','N','N','N','N','Y','Y',0);" onkeydown="if ((typeof isLoaderInProcess == 'function') && isLoaderInProcess() && ptCommonObj2!=null) { ptCommonObj2.terminateEvent(event); } " >
+<option value="" selected='selected'>&nbsp; </option>
+<option value="ACCTMIS">Accounting and Management Info</option>
+<option value="ACCAD">Adv Computing Cntr Arts&amp;Design</option>
+<option value="AEROENG">Aeronautical and Astro Engr</option>
+<option value="AFAMAST">African American &amp; African Std</option>
+<option value="AEDECON">Agricul Envrmntl &amp; Devlop Econ</option>
+<option value="AGRCOMM">Agricultural Communication</option>
+<option value="AGSYSMT">Agricultural Systems Mgmt</option>
+<option value="AEE">Agricultural&amp;Extension Educatn</option>
+<option value="ASE">Agriscience Education</option>
+<option value="AMINSTS">American Indian Studies</option>
+<option value="ASL">American Sign Language</option>
+<option value="ANATOMY">Anatomy</option>
+<option value="ANIMSCI">Animal Sciences</option>
+<option value="ANMLTEC">Animal Sciences Technology</option>
+<option value="ANTHROP">Anthropology</option>
+<option value="ARABIC">Arabic</option>
+<option value="ARCH">Architecture</option>
+<option value="ART">Art</option>
+<option value="ARTEDUC">Art Education</option>
+<option value="ARTSSCI">Arts and Sciences</option>
+<option value="ASAMSTS">Asian American Studies</option>
+<option value="ASTRON">Astronomy</option>
+<option value="ATHTRNG">Athletic Training</option>
+<option value="ATMOSSC">Atmospheric Sciences</option>
+<option value="AVIATN">Aviation</option>
+<option value="BIOCHEM">Biochemistry</option>
+<option value="BIOWMGT">Bioenergy&amp;Biological Waste Mgt</option>
+<option value="BIOETHC">Bioethics</option>
+<option value="BIOPHRM">Biological Chem &amp; Pharmacology</option>
+<option value="BIOLOGY">Biology</option>
+<option value="BIOMEDE">Biomedical Engineering</option>
+<option value="BMI">Biomedical Informatics</option>
+<option value="BIOMSCI">Biomedical Science</option>
+<option value="BSGP">Biomedical Sciences Grad Prog</option>
+<option value="BIOPHYS">Biophysics</option>
+<option value="BUSFIN">Business Admin : Finance</option>
+<option value="BUSMHR">Business Admin : Mgmt &amp; HR</option>
+<option value="BUSMGT">Business Admin: Management Sci</option>
+<option value="BUSML">Business Admin:Marketing &amp; Log</option>
+<option value="BUSADM">Business Administration</option>
+<option value="BUSTEC">Business Technology</option>
+<option value="CONSRTM">CONSORTIUM</option>
+<option value="CBG">Cancer Biology and Genetics</option>
+<option value="CHEMPHY">Chemical Physics</option>
+<option value="CBE">Chemical and Biomolecular Eng</option>
+<option value="CHEM">Chemistry</option>
+<option value="CHINESE">Chinese</option>
+<option value="CRPLAN">City and Regional Planning</option>
+<option value="CIVILEN">Civil Engineering</option>
+<option value="CLAS">Classics</option>
+<option value="COMM">Communication</option>
+<option value="COMLDR">Community Leadership</option>
+<option value="COMPSTD">Comparative Studies</option>
+<option value="CSE">Computer Science &amp; Engineering</option>
+<option value="CONSYSM">Construction Systems Mgmt</option>
+<option value="CSCFFS">Consumer Sci: Con&amp;Fam Fin Serv</option>
+<option value="CSFRST">Consumer Sci: Fashion &amp; Retail</option>
+<option value="CSHSPMG">Consumer Sci: Hospitality Mgt</option>
+<option value="CONSCI">Consumer Sciences</option>
+<option value="CRPSOIL">Crop and Soil Technology</option>
+<option value="DANCE">Dance</option>
+<option value="DENTHYG">Dental Hygiene</option>
+<option value="DENT">Dentistry</option>
+<option value="DESIGN">Design</option>
+<option value="DSABLST">Disability Studies</option>
+<option value="EARTHSC">Earth Sciences</option>
+<option value="EALL">East Asian Languages and Lit</option>
+<option value="ECON">Economics</option>
+<option value="ESCE">Educ Sts: Counselor Education</option>
+<option value="ESCFE">Educ Sts: Cultural Foundations</option>
+<option value="ESEPSY">Educ Sts: Education Psychology</option>
+<option value="ESEADM">Educ Sts: Educational Admin</option>
+<option value="ESEPOL">Educ Sts: Educational Policy</option>
+<option value="ESHESA">Educ Sts: Higher Ed &amp; Stdt Aff</option>
+<option value="ESLTECH">Educ Sts: Learning Technologie</option>
+<option value="ESPHE">Educ Sts: Philo&amp;Hist of Educ</option>
+<option value="ESQREM">Educ Sts: Qunt Rsch Eval&amp;Msrmt</option>
+<option value="ESSPSY">Educ Sts: School Psychology</option>
+<option value="ESSPED">Educ Sts: Special Education</option>
+<option value="ESWDE">Educ Sts: Wkfrc Dvlpt &amp; Educ</option>
+<option value="EHE">Education and Human Ecology</option>
+<option value="EDUTL">Education:Teaching &amp; Learning</option>
+<option value="EDUCST">Educational Studies</option>
+<option value="ECE">Electrical and Computer Eng</option>
+<option value="ENGR">Engineering</option>
+<option value="ENGTECH">Engineering Technology</option>
+<option value="ENGLISH">English</option>
+<option value="ENTMLGY">Entomology</option>
+<option value="ENR">Environment &amp; Natural Resource</option>
+<option value="ENVENG">Environmental Engineering</option>
+<option value="ENVSCI">Environmental Science</option>
+<option value="EEOB">Evol, Ecology &amp; Organismal Bio</option>
+<option value="EXP">Exploration</option>
+<option value="FILMSTD">Film Studies</option>
+<option value="FDSCTE">Food Science &amp; Technology</option>
+<option value="FABENG">Food, Agricul &amp; Bio Engineer</option>
+<option value="FAES">Food, Agricul, &amp; Enviro Sci</option>
+<option value="FRENCH">French</option>
+<option value="GENHUM">General Studies: Humanities</option>
+<option value="GEOSCIM">Geodetic Sciences MPS</option>
+<option value="GEOG">Geography</option>
+<option value="GERMAN">German</option>
+<option value="GRADSCH">Graduate School</option>
+<option value="GREEK">Greek</option>
+<option value="HCINNOV">Health Care Innovation</option>
+<option value="HIMS">Health Info Mgt &amp; Systems</option>
+<option value="HTHRHSC">Health and Rehabilitation Sci</option>
+<option value="HEBREW">Hebrew</option>
+<option value="HISTORY">History</option>
+<option value="HISTART">History of Art</option>
+<option value="HORTTEC">Horticultural Technology</option>
+<option value="HCS">Horticulture and Crop Science</option>
+<option value="HDFS">Human Dev and Family Science</option>
+<option value="HUMNNTR">Human Nutrition</option>
+<option value="ISE">Industrial and Sys Engineering</option>
+<option value="INTMED">Internal Medicine</option>
+<option value="INTSTDS">International Studies</option>
+<option value="ITALIAN">Italian</option>
+<option value="JAPANSE">Japanese</option>
+<option value="JEWSHST">Jewish Studies</option>
+<option value="KINESIO">Kinesiology</option>
+<option value="KNHES">Kinesiology: Health&amp;Exercs Sci</option>
+<option value="KNPE">Kinesiology:Physical Education</option>
+<option value="KNSFHP">Kinesiology:Sprt, Ftns&amp;Hlth Pr</option>
+<option value="KNSISM">Kinesiology:Spt Indsty Spt Mgt</option>
+<option value="KOREAN">Korean</option>
+<option value="LARCH">Landscape Architecture</option>
+<option value="LATIN">Latin</option>
+<option value="LAW">Law</option>
+<option value="LING">Linguistics</option>
+<option value="MBA">Master of Business Admin</option>
+<option value="MATSCEN">Materials Science and Engineer</option>
+<option value="MATH">Mathematics</option>
+<option value="MEATSCI">Meat Science</option>
+<option value="MECHENG">Mechanical Engineering</option>
+<option value="MEDDIET">Medical Dietetics</option>
+<option value="MEDLBS">Medical Laboratory Science</option>
+<option value="MEDCOLL">Medicine, College of</option>
+<option value="MEDREN">Medieval &amp; Renaissance Studies</option>
+<option value="MICRBIO">Microbiology</option>
+<option value="MDRNGRK">Modern Greek</option>
+<option value="MCDBIO">Molec, Cellular, Dvlpmtl Bio</option>
+<option value="MOLGEN">Molecular Genetics</option>
+<option value="MUSIC">Music</option>
+<option value="NAVALSC">Naval Science</option>
+<option value="NELC">Near Eastrn Lang and Cultures</option>
+<option value="NEURSGY">Neurological Surgery</option>
+<option value="NEUROSC">Neuroscience Department</option>
+<option value="NUCLREN">Nuclear Engineering</option>
+<option value="NURSING">Nursing</option>
+<option value="NRSADVN">Nursing Advancement</option>
+<option value="NRSPRCT">Nursing Practice</option>
+<option value="ORIENTAT">ORIENTATION</option>
+<option value="OCCTHER">Occupational Therapy</option>
+<option value="OSBP">Ohio State Biochemistry Prg</option>
+<option value="OPTOM">Optometry</option>
+<option value="OTOLARN">Otolaryngology</option>
+<option value="PEDS">Pediatrics</option>
+<option value="PERSIAN">Persian</option>
+<option value="PHR">Pharmacy</option>
+<option value="PHILOS">Philosophy</option>
+<option value="PHYSTHR">Physical Therapy</option>
+<option value="PHYSICS">Physics</option>
+<option value="PHYSIO">Physiology and Cell Biology</option>
+<option value="PLNTPTH">Plant Pathology</option>
+<option value="POLITSC">Political Science</option>
+<option value="PORTGSE">Portuguese</option>
+<option value="PSYCH">Psychology</option>
+<option value="PUBHBIO">Pub Hlth: Biostatistics</option>
+<option value="PUBHEHS">Pub Hlth: Envirmtl Hlth Scis</option>
+<option value="PUBHEPI">Pub Hlth: Epidemiology</option>
+<option value="PUBHHBP">Pub Hlth: Hlth Bhvr&amp;Hlth Prom</option>
+<option value="PUBHHMP">Pub Hlth: Hlth Srvcs Mgt&amp;Plcy</option>
+<option value="PUBAFRS">Public Affairs, John Glenn Col</option>
+<option value="PUBHLTH">Public Health</option>
+<option value="ROOM">ROOM</option>
+<option value="RADSCI">Radiologic Sciences &amp; Therapy</option>
+<option value="RESPTHR">Respiratory Therapy</option>
+<option value="RURLSOC">Rural Sociology</option>
+<option value="RUSSIAN">Russian</option>
+<option value="SXLTYST">Sexuality Studies</option>
+<option value="SLAVIC">Slavic Languages &amp; Literatures</option>
+<option value="SOCWORK">Social Work</option>
+<option value="SOCIOL">Sociology</option>
+<option value="SPANISH">Spanish</option>
+<option value="SPHHRNG">Speech and Hearing Science</option>
+<option value="STAT">Statistics</option>
+<option value="SURGERY">Surgery</option>
+<option value="SWAHILI">Swahili</option>
+<option value="THEATRE">Theatre</option>
+<option value="VETBIOS">Veterinary Biosciences</option>
+<option value="VETCLIN">Veterinary Clinical Sciences</option>
+<option value="VMCOLL">Veterinary Medicine</option>
+<option value="VETPREV">Veterinary Preventive Medicine</option>
+<option value="VISSCI">Vision Science</option>
+<option value="WELDENG">Welding Engineering</option>
+<option value="WGSST">Women&#039;s, Gender&amp;Sexuality Sts</option>
+<option value="YIDDISH">Yiddish</option>
+</select>
+</DIV></td>
+</tr>
+<tr>
+<td height='21'></td>
+<td  valign='top' align='left'>
+<DIV   id='win0divSSR_CLSRCH_WRK_CATALOG_NBRlbl$2'><label for='SSR_CLSRCH_WRK_CATALOG_NBR$2' id='SSR_CLSRCH_WRK_CATALOG_NBR_LBL$2' class='PSEDITBOXLABEL' >Course Number</label></DIV></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_WRK_SSR_EXACT_MATCH1$2'><select name='SSR_CLSRCH_WRK_SSR_EXACT_MATCH1$2' id='SSR_CLSRCH_WRK_SSR_EXACT_MATCH1$2' tabindex='210' size='1'  class='PSDROPDOWNLIST' style='width:194px; ' onchange="addchg_win0(this);return doEdits_win0(this,'','N','N','N','N','Y','Y',0);" onkeydown="if ((typeof isLoaderInProcess == 'function') && isLoaderInProcess() && ptCommonObj2!=null) { ptCommonObj2.terminateEvent(event); } " >
+<option value="">&nbsp; </option>
+<option value="C">contains</option>
+<option value="G">greater than or equal to</option>
+<option value="E" selected='selected'>is exactly</option>
+<option value="T">less than or equal to</option>
+</select>
+</DIV></td>
+<td nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_WRK_CATALOG_NBR$2'><input type='text' name='SSR_CLSRCH_WRK_CATALOG_NBR$2' id='SSR_CLSRCH_WRK_CATALOG_NBR$2' tabindex='211' value=""  class='PSEDITBOX' style='width:56px; ' maxlength='10' onchange="addchg_win0(this);return doEdits_win0(this,'','N','N','N','N','Y','N',0);"  />
+</DIV></td>
+</tr>
+<tr>
+<td height='20'></td>
+<td rowspan='3'  valign='top' align='left'>
+<DIV   id='win0divSSR_CLSRCH_WRK_ACAD_CAREERlbl$3'><label for='SSR_CLSRCH_WRK_ACAD_CAREER$3' id='SSR_CLSRCH_WRK_ACAD_CAREER_LBL$3' class='PSDROPDOWNLABEL' >Course Career</label></DIV></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_WRK_ACAD_CAREER$3'><select name='SSR_CLSRCH_WRK_ACAD_CAREER$3' id='SSR_CLSRCH_WRK_ACAD_CAREER$3' tabindex='276' size='1'  class='PSDROPDOWNLIST' style='width:194px; ' onchange="addchg_win0(this);return doEdits_win0(this,'','N','N','N','N','Y','Y',0);" onkeydown="if ((typeof isLoaderInProcess == 'function') && isLoaderInProcess() && ptCommonObj2!=null) { ptCommonObj2.terminateEvent(event); } " >
+<option value="" selected='selected'>&nbsp; </option>
+<option value="DENT">Dentistry</option>
+<option value="GRAD">Graduate</option>
+<option value="LAW">Law</option>
+<option value="MED">Medicine</option>
+<option value="OPT">Optometry</option>
+<option value="PHP">Pharmacy, Professional</option>
+<option value="UGRD">Undergraduate</option>
+<option value="VMED">Veterinary Medicine</option>
+</select>
+</DIV></td>
+</tr>
+<tr>
+<td height='20'></td>
+<td colspan='2' nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_WRK_SSR_OPEN_ONLY$4'><input type='hidden' name='SSR_CLSRCH_WRK_SSR_OPEN_ONLY$chk$4' id='SSR_CLSRCH_WRK_SSR_OPEN_ONLY$chk$4' value="Y" />
+<input type='checkbox' name='SSR_CLSRCH_WRK_SSR_OPEN_ONLY$4' id='SSR_CLSRCH_WRK_SSR_OPEN_ONLY$4' class='PSCHECKBOX' tabindex='341' value="Y" checked='checked' onclick="setupTimeout2();    this.form.SSR_CLSRCH_WRK_SSR_OPEN_ONLY$chk$4.value=(this.checked?'Y':'N');doFocus_win0(this,false,true);" /><label for='SSR_CLSRCH_WRK_SSR_OPEN_ONLY$4' id='SSR_CLSRCH_WRK_SSR_OPEN_ONLY_LBL$4' class='PSCHECKBOX' >Show Open Classes Only</label>
+</DIV></td>
+</tr>
+<tr>
+<td height='19'></td>
+<td colspan='2' nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_WRK_OEE_IND$5'><input type='hidden' name='SSR_CLSRCH_WRK_OEE_IND$chk$5' id='SSR_CLSRCH_WRK_OEE_IND$chk$5' value="N" />
+<input type='checkbox' name='SSR_CLSRCH_WRK_OEE_IND$5' id='SSR_CLSRCH_WRK_OEE_IND$5' class='PSCHECKBOX' tabindex='406' value="Y" onclick="setupTimeout2();    this.form.SSR_CLSRCH_WRK_OEE_IND$chk$5.value=(this.checked?'Y':'N');doFocus_win0(this,false,true);" /><label for='SSR_CLSRCH_WRK_OEE_IND$5' id='SSR_CLSRCH_WRK_OEE_IND_LBL$5' class='PSCHECKBOX' >Open Entry/Exit Classes Only</label>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='3' colspan='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='4' colspan='4'></td>
+</tr>
+<tr>
+<td height='15'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS$2'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='503'>
+<tr><td class='PAGROUPBOXLABELINVISIBLE'  align='left'>Additional Search Criteria</td></tr>
+<tr><td width='501'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$2' cellpadding='0' cellspacing='0' cols='3' width='501' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='20'></td>
+<td width='478'></td>
+</tr>
+<tr>
+<td height='1'></td>
+<td rowspan='2' nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$2'><a name='DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$2' id='DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$2'   role='button' tabindex='476' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$2');"><img src='/cs/csosuct/cache85523/PS_EXPAND_ICN_1.gif' name='DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$IMG$2'  alt='Additional Search Criteria' title='Additional Search Criteria' border='0' /></a><!-- DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$2 -->
+</DIV></td>
+</tr>
+<tr>
+<td height='10'></td>
+<td  valign='top' align='left'>
+<DIV   id='win0divDERIVED_CLSRCH_SSR_EXPAND_COLLAPS$255$lbl$2'><span  class='PSEDITBOXLABEL' >Additional Search Criteria</span></DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='9' colspan='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='4' colspan='4'></td>
+</tr>
+<tr>
+<td height='21'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField183'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='519'>
+<tr><td width='517'>
+<table role='presentation'  border='0' id='ACE_$ICField183' cellpadding='0' cellspacing='0' cols='3' width='517' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='323' height='9'></td>
+<td width='116'></td>
+<td width='78'></td>
+</tr>
+<tr>
+<td height='10'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divCLASS_SRCH_WRK2_SSR_PB_CLEAR'><span id='CLASS_SRCH_WRK2_SSR_PB_CLEAR$span'  class='SSSBUTTON_CANCELLINK'  title='Clear Criteria' ><a name='CLASS_SRCH_WRK2_SSR_PB_CLEAR' id='CLASS_SRCH_WRK2_SSR_PB_CLEAR'  ptlinktgt='pt_peoplecode' tabindex='1221' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'CLASS_SRCH_WRK2_SSR_PB_CLEAR');"  class='SSSBUTTON_CANCELLINK' >Clear</a></span><!-- CLASS_SRCH_WRK2_SSR_PB_CLEAR -->
+</DIV></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divCLASS_SRCH_WRK2_SSR_PB_CLASS_SRCH'><span id='CLASS_SRCH_WRK2_SSR_PB_CLASS_SRCH$span'  class='SSSBUTTON_CONFIRMLINK' ><a name='CLASS_SRCH_WRK2_SSR_PB_CLASS_SRCH' id='CLASS_SRCH_WRK2_SSR_PB_CLASS_SRCH'  ptlinktgt='pt_peoplecode' tabindex='1222' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'CLASS_SRCH_WRK2_SSR_PB_CLASS_SRCH');"  class='SSSBUTTON_CONFIRMLINK' >Search</a></span><!-- CLASS_SRCH_WRK2_SSR_PB_CLASS_SRCH -->
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='2' colspan='4'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='10' colspan='4'></td>
+</tr>
+</table>
+</DIV>
+</td></tr>
+</table>
+</DIV>
+<DIV class='ps_box-pagetabs' id='win0divPSPANELTABLINKS'></DIV>
+<div id='DetachDiv' height=0 width=0 frameborder=0></div>
+<a name='ICLastAnchor_win0' id='ICLastAnchor_win0'></a>
+
+<!-- Embedded Help popup Begin -->
+<div id='HelppopupDiv_win0' style='display:none; position:absolute; top:0; left:0'>t</div>
+<div id='HelpDragFrame_win0' class='popupDragFrame'>&nbsp;</div><table id='HelppopupContainer_win0' width='20' border='0' cellpadding='0' cellspacing='0' style='opacity:1; display:none; position:absolute; top:0; left:0' >
+<tr>
+<td id='HelppopupInner_win0' class='HelppopupInner' align='left' valign='top' style='position:absolute;z-Index:302;'>
+<div id='HelppopupTitleBar_win0' class='PTPOPUP_HEADER HelppopupTitleBar' style='width:341px'><div id='HelppopupTitleBarLeftImage'></div><div id='HelppopupTitleBarMiddle_win0' style='width:333px' class='HelppopupTitleBarMiddle' dir='ltr'>
+<table>
+<td id='HelppopupTitle_win0' style='width:290px; cursor: move;'><span class='PTPOPUP_TITLE'>Help</span></td>
+<td style='width:45px'><img id='#HELPPOPUPCLOSE' style='cursor:pointer' title='Close' alt='Close' align='right' onclick='HelppopupObj_win0.StopPopup("win0");' src='/cs/csosuct/cache85523/PT_PORTAL_IC_CLOSE_1.gif'/></td>
+</table>
+</div><div id='HelppopupTitleBarRightImage'></div></div><div id='HelpdivpopupFrame_win0' class='MOBGImage HelpdivpopupFrame' tabindex='-1' onclick='HelppopupObj_win0.SetFocusFlag(false);' style='border: 1px #bcbaba solid; padding:12px; overflow:auto;'>test</div><div id='HelppopupShadow' class='popupShadow' style='position:absolute;z-index:-1;'><div id='HelppopupShadowTopRightCorner' class='popupShadowTopRightCorner' style='height:10px;'>&nbsp;</div><div id='HelppopupShadowTop' class='popupShadowTop' >&nbsp;</div><div id='HelppopupShadowBottom' class='popupShadowBottom' style='height:10px'><div id='HelppopupShadowBottomLeftCorner' class='popupShadowBottomLeftCorner' style='height:10px;width:10px'>&nbsp;</div><div id='HelppopupShadowBottomMiddle' class='popupShadowBottomMiddle' style='height:10px;'>&nbsp;</div><div id='HelppopupShadowBottomRightCorner' class='popupShadowBottomRightCorner' style='height:10px;width:10px'>&nbsp;</div></div></div></td>
+</tr>
+</table>
+<!-- Embedded Help popup End  -->
+<div id='pt_fakeBC' style='display:none'><ul><li class="pthnavhiearchysep pthbcdispiblock">&nbsp;</li>
+<li class="pthnavbarcref ptabncrefbc ptfakercfbc pthbcdispiblock" id="pthnavbccref_PT_FAKE_CLASS_SEARCH_GBL" ><a class=abnanchor href="https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&amp;" role="menuitem" target="TargetContent">View Schedule of Classes</a><div class="pthnavcrefimg">&nbsp;</div></li>
+</ul></div><div id='ptus_universalSrch' style='display:none;'><span>Default Local Node:</span><input type='text' readonly='readonly' name='ptus_defaultlocalnode' id='ptus_defaultlocalnode' value='PSFT_CSOSU' /><br /><span>DbName:</span><input type='text' readonly='readonly' name='ptus_dbname' id='ptus_dbname' value='CSOSU' /><br /><span>Portal:</span><input type='text' readonly='readonly' name='ptus_portal' id='ptus_portal' value='EMPLOYEE' /><br /><span>Node:</span><input type='text' readonly='readonly' name='ptus_node' id='ptus_node' value='PUB' /><br /><span>WorkCenter Id:</span><input type='text' readonly='readonly' name='ptus_workcenterid' id='ptus_workcenterid' value='' /><br /><span>Url:</span><input type='text' readonly='readonly' name='ptus_componenturl' id='ptus_componenturl' value='https://courses.osu.edu/psp/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL' /><br /></div></form>
+<div id='popupDragFrame' class='popupDragFrame'>&nbsp;</div>
+<!-- Mouse-over popup Begin -->
+<table id='win0MOpopupContainer' width='20' border='0' cellpadding='0' cellspacing='0' style='display:none; position:absolute; top:0; left:0;' onMouseOver="MOpopupObj_win0.StartPopup('win0MOpopupContainer', '');" onMouseOut="MOpopupObj_win0.StopPopup();"><tr>
+<td id='win0MOpopupInner' height='25' width='20' align='left' valign='top' class='MOBGImage'>
+<div id='win0MOdivpopupFrame' tabindex='-1' onclick='MOpopupObj_win0.SetFocusFlag(false);' style='overflow:auto; width:20px; height: 60px; padding:8px; box-shadow:0 0 5px #000000; background-color:white; border: 1px solid #666666;'>test</div></td>
+</tr>
+</table>
+<!-- Mouse-over popup End  -->
+</body>
+<script language='JavaScript'>
+var nMaxSavedStates=5;
+var sHistURL="https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?page=SSR_CLSRCH_ENTRY&&";
+var bICList = false;
+var bCloseModal = false;
+var bHtml5Doc = true;
+var bClearBackState=false;
+var bPageTransfered=false;
+var bTransferAnimate=false;
+var bCleanHtml = true;
+var bDefer = true;
+document.deferFldArr_win0 = new Array();
+document.hiddenFldArr_win0 =new Array('ICType','ICElementNum','ICStateNum','ICAction','ICModelCancel','ICXPos','ICYPos','ResponsetoDiffFrame','TargetFrameName','FacetPath','ICFocus','ICSaveWarningFilter','ICChanged','ICSkipPending','ICAutoSave','ICResubmit','ICSID','ICActionPrompt','ICBcDomData','ICPanelName','ICFind','ICAddCount','ICAPPCLSDATA');
+document.chgFldArr_win0 = new Array();
+AddToHistory('Criteria Entry', '', 'returntolastpage@0', 'SSR_CLSRCH_ENTRY', 1, 0, 1, 0,'', 0, '', 0);
+var bCleanHtml = true;
+var bDefer = true;
+document.hiddenFldArr_win0 =new Array('ICType','ICElementNum','ICStateNum','ICAction','ICModelCancel','ICXPos','ICYPos','ResponsetoDiffFrame','TargetFrameName','FacetPath','ICFocus','ICSaveWarningFilter','ICChanged','ICSkipPending','ICAutoSave','ICResubmit','ICSID','ICActionPrompt','ICBcDomData','ICPanelName','ICFind','ICAddCount','ICAPPCLSDATA');
+document.chgFldArr_win0 = new Array();
+var bCDATA = false;
+var bAccessibleLayout = false;
+var bLoadCompleted = true;
+</script></html>
