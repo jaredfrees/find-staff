@@ -1,0 +1,132 @@
+4. Set campus
+
+
+[Request]
+
+{header}
+
+POST https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL HTTP/1.1
+Connection: keep-alive
+Content-Length: 489
+Origin: https://courses.osu.edu
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&
+Accept-Language: en-US,en;q=0.9
+Cookie: NSC_NX-DTPTV-DPVSTFT-TTM-WT=ffffffff8ff60a6045525d5f4f58455e445a4a4206ab; hcwebprd12-15000-PORTAL-PSJSESSIONID=M3G3gGYKw5ulWR3q-qKSgmQTrrucVXF6!-1968237489; ExpirePage=https://courses.osu.edu/psc/csosuct/; PS_LOGINLIST=https://courses.osu.edu/csosuct; PS_TOKEN=rQAAAAQDAgEBAAAAvAIAAAAAAAAsAAAABABTaGRyAk4AgQg4AC4AMQAwABQvcgZsXEzG4qUYXQgvevcsZ1vAgm0AAAAFAFNkYXRhYXicHYpLDkBAEETfIE5g5Q4m/uwnww7xWTuLezmcMp1Udb1KPUASR8bovxHhcsfKxc6Bl25m0Z9OUs8izDbRJL5xSqt00daUVIwU8lJeM4TcYGnVWzo1NjS91GnFB9zGDtU=; SignOnDefault=; PS_DEVICEFEATURES=width:1440 height:900 pixelratio:2 touch:0 geolocation:1 websockets:1 webworkers:1 datepicker:1 dtpicker:1 timepicker:1 dnd:1 sessionstorage:1 localstorage:1 history:1 canvas:1 svg:1 postmessage:1 hc:0 maf:0; psback=%22%22url%22%3A%22https%3A%2F%2Fcourses.osu.edu%2Fpsc%2Fcsosuct%2FEMPLOYEE%2FPUB%2Fc%2FCOMMUNITY_ACCESS.CLASS_SEARCH.GBL%3F%26%22%20%22label%22%3A%22zzz%22%20%22origin%22%3A%22PIA%22%20%22layout%22%3A%220%22%22; PS_TOKENEXPIRE=27_Oct_2018_21:49:37_GMT
+Host: courses.osu.edu
+
+
+{body}
+
+ICAJAX=1&ICNAVTYPEDROPDOWN=0&ICType=Panel&ICElementNum=0&ICStateNum=2&ICAction=SSR_CLSRCH_WRK_CAMPUS%240&ICModelCancel=0&ICXPos=0&ICYPos=0&ResponsetoDiffFrame=-1&TargetFrameName=None&FacetPath=None&ICFocus=&ICSaveWarningFilter=0&ICChanged=-1&ICSkipPending=0&ICAutoSave=0&ICResubmit=0&ICSID=gNLPmdnuTCkT3ufhf9UbwYKAb%2B6Inu7qFEGcqLQnnGQ%3D&ICActionPrompt=false&ICBcDomData=UnknownValue&ICPanelName=&ICFind=&ICAddCount=&ICAPPCLSDATA=&CLASS_SRCH_WRK2_STRM$35$=1192&SSR_CLSRCH_WRK_CAMPUS$0=COL
+
+[Response]
+
+{header}
+
+HTTP/1.1 200 OK
+Date: Sat, 27 Oct 2018 21:49:39 GMT
+Server: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Length: 4711
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+IgnorePortalRegisteredURL: 1
+PortalRegisteredURL: https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL
+UsesPortalRelativeURL: true
+Set-Cookie: PS_TOKENEXPIRE=27_Oct_2018_21:49:39_GMT; domain=.osu.edu; path=/; secure
+Connection: close
+Content-Type: text/xml; CHARSET=UTF-8
+Set-Cookie: NSC_NX-DTPTV-DPVSTFT-TTM-WT=ffffffff8ff60a6045525d5f4f58455e445a4a4206ab;Version=1;Max-Age=1800;path=/;secure;httponly
+
+{body}
+
+
+<?xml version='1.0' encoding='utf-8' ?>
+<PAGE id='SSR_CLSRCH_ENTRY'><GENSCRIPT id='script'><![CDATA[var oWin=window;
+ var oDoc = window.document;
+oWin.strCurrUrl='https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&PAGE=SSR_CLSRCH_ENTRY';
+oWin.strReqURL='';
+]]></GENSCRIPT><GENSCRIPT id='onloadScript'><![CDATA[g_bAccessibilityMode=false;
+var actn='';
+var oWin=window;
+var oDoc=document;
+actn=oDoc.win0.ICAction.value;
+oDoc.win0.ICAction.value='None';
+oDoc.win0.ICResubmit.value='0';
+oWin.nResubmit='0';
+oDoc.win0.ICStateNum.value=3;initVars_win0();
+if (typeof resetVars_win0 == "function")resetVars_win0();
+oDoc.win0.ICFocus.value='';
+setupTimeout2();
+if (!isCrossDomainTop()) top.document.title=document.title;
+ptEvent.add(window,'scroll',positionWAIT_win0);
+ptCommonObj2.generateABNSearchResults(document.win0);
+getGblSrchPageNum(actn);
+if (gSrchRsltPageNum <= 5) getAllRelatedActions();
+
+if (typeof(myAppsWindowOpenJS) != 'undefined' && myAppsWindowOpenJS != null && myAppsWindowOpenJS != '')
+ {
+try {eval(myAppsWindowOpenJS);} catch(e) {}
+  myAppsWindowOpenJS=null;
+}
+if (typeof(ptLongEditCounter) != 'undefined' && ptLongEditCounter != null)
+   ptLongEditCounter.onLoadLongEditCounter();
+ResetGlyph_win0();
+self.scroll(0,0);
+if (typeof ptGridObj_win0 != 'undefined' && ptGridObj_win0)
+ ptGridObj_win0.clearGridArr();
+objToBeFocus = null;
+if (typeof oWin == 'undefined') setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+ else
+ oWin.setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+setFocus_win0('SSR_CLSRCH_WRK_CAMPUS$0',-1);
+ptLoadingStatus_empty(0);
+setupTimeout2();
+processing_win0(0,3000);]]></GENSCRIPT>
+<FIELD id='win0divCLASS_SRCH_WRK2_INSTITUTION$31$lbl' ><![CDATA[<label for='CLASS_SRCH_WRK2_INSTITUTION$31$' id='CLASS_SRCH_WRK2_INSTITUTION$31$_LBL' class='PSDROPDOWNLABEL' >Institution</label>]]></FIELD>
+<FIELD id='win0divCLASS_SRCH_WRK2_INSTITUTION$31$'  ><![CDATA[<select name='CLASS_SRCH_WRK2_INSTITUTION$31$' id='CLASS_SRCH_WRK2_INSTITUTION$31$' tabindex='20' size='1'  class='PSDROPDOWNLIST' style='width:220px; ' onchange="addchg_win0(this);submitAction_win0(this.form,this.id);/*a000,200000*/" onkeydown="if ((typeof isLoaderInProcess == 'function') && isLoaderInProcess() && ptCommonObj2!=null) { ptCommonObj2.terminateEvent(event); } " >
+<option value="">&nbsp; </option>
+<option value="OSUSI" selected='selected'>The Ohio State University</option>
+</select>
+]]></FIELD>
+<FIELD id='win0divSSR_CLSRCH_WRK_CAMPUSlbl$0' ><![CDATA[<label for='SSR_CLSRCH_WRK_CAMPUS$0' id='SSR_CLSRCH_WRK_CAMPUS_LBL$0' class='PSDROPDOWNLABEL' >Campus</label>]]></FIELD>
+<FIELD id='win0divSSR_CLSRCH_WRK_CAMPUS$0'  ><![CDATA[<select name='SSR_CLSRCH_WRK_CAMPUS$0' id='SSR_CLSRCH_WRK_CAMPUS$0' tabindex='95' size='1'  class='PSDROPDOWNLIST' style='width:194px; ' onchange="addchg_win0(this);submitAction_win0(this.form,this.id);/*2000,200000*/" onkeydown="if ((typeof isLoaderInProcess == 'function') && isLoaderInProcess() && ptCommonObj2!=null) { ptCommonObj2.terminateEvent(event); } " >
+<option value="">&nbsp; </option>
+<option value="COL" selected='selected'>Columbus</option>
+<option value="LMA">Lima</option>
+<option value="MNS">Mansfield</option>
+<option value="MRN">Marion</option>
+<option value="NWK">Newark</option>
+<option value="WST">Wooster</option>
+</select>
+]]></FIELD>
+<FIELD id='win0divSSR_CLSRCH_WRK_ACAD_CAREER$3'  ><![CDATA[<select name='SSR_CLSRCH_WRK_ACAD_CAREER$3' id='SSR_CLSRCH_WRK_ACAD_CAREER$3' tabindex='276' size='1'  class='PSDROPDOWNLIST' style='width:194px; ' onchange="addchg_win0(this);return doEdits_win0(this,'','N','N','N','N','Y','Y',0);" onkeydown="if ((typeof isLoaderInProcess == 'function') && isLoaderInProcess() && ptCommonObj2!=null) { ptCommonObj2.terminateEvent(event); } " >
+<option value="" selected='selected'>&nbsp; </option>
+<option value="DENT">Dentistry</option>
+<option value="GRAD">Graduate</option>
+<option value="LAW">Law</option>
+<option value="MED">Medicine</option>
+<option value="OPT">Optometry</option>
+<option value="PHP">Pharmacy, Professional</option>
+<option value="UGRD">Undergraduate</option>
+<option value="VMED">Veterinary Medicine</option>
+</select>
+]]></FIELD>
+<SYSVAR id='sysvar'><![CDATA[nMaxSavedStates=5;
+sHistURL="https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?page=SSR_CLSRCH_ENTRY&";
+bICList = false;
+bCloseModal = false;
+bHtml5Doc = true;
+bClearBackState=false;
+bPageTransfered=false;
+bTransferAnimate=false;
+UpdateHistory('', '', 'returntolastpage@0', 'SSR_CLSRCH_ENTRY', 1, '', null, 0);
+bCleanHtml = true;
+bDefer = true;
+bCDATA = false;
+bAccessibleLayout = false;
+bGenDomInfo = false;
+]]></SYSVAR></PAGE>
