@@ -4,3 +4,15 @@ http://courses.osu.edu/psp/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.
 Method:
 POST
 
+
+ICAJAX=1&ICNAVTYPEDROPDOWN=1&ICType=Panel&ICElementNum=0&ICStateNum=1&ICAction=CLASS_SRCH_WRK2_STRM%2435%24&ICModelCancel=0&ICXPos=0&ICYPos=0&ResponsetoDiffFrame=-1&TargetFrameName=None&FacetPath=None&ICFocus=&ICSaveWarningFilter=0&ICChanged=-1&ICSkipPending=0&ICAutoSave=0&ICResubmit=0&ICSID=o0oC32m%2B1bu9olOIeIxUF4%2FlB2qL4efrEm6xJvndnrY%3D&ICActionPrompt=false&ICBcDomData=&ICPanelName=&ICFind=&ICAddCount=&ICAPPCLSDATA=&CLASS_SRCH_WRK2_INSTITUTION$31$=OSUSI&CLASS_SRCH_WRK2_STRM$35$=1192&SSR_CLSRCH_WRK_CAMPUS$0=
+
+ICAJAX=1&ICNAVTYPEDROPDOWN=1&ICType=Panel&ICElementNum=0&ICStateNum=2&ICAction=CLASS_SRCH_WRK2_STRM%2435%24&ICModelCancel=0&ICXPos=0&ICYPos=0&ResponsetoDiffFrame=-1&TargetFrameName=None&FacetPath=None&ICFocus=&ICSaveWarningFilter=0&ICChanged=-1&ICSkipPending=0&ICAutoSave=0&ICResubmit=0&ICSID=o0oC32m%2B1bu9olOIeIxUF4%2FlB2qL4efrEm6xJvndnrY%3D&ICActionPrompt=false&ICBcDomData=&ICPanelName=&ICFind=&ICAddCount=&ICAPPCLSDATA=&CLASS_SRCH_WRK2_STRM$35$=1192&CLASS_SRCH_WRK2_INSTITUTION$31$=OSUSI
+
+ICAJAX=1&ICNAVTYPEDROPDOWN=1&ICType=Panel&ICElementNum=0&ICStateNum=4&ICAction=SSR_CLSRCH_WRK_CAMPUS%240&ICModelCancel=0&ICXPos=0&ICYPos=0&ResponsetoDiffFrame=-1&TargetFrameName=None&FacetPath=None&ICFocus=&ICSaveWarningFilter=0&ICChanged=-1&ICSkipPending=0&ICAutoSave=0&ICResubmit=0&ICSID=o0oC32m%2B1bu9olOIeIxUF4%2FlB2qL4efrEm6xJvndnrY%3D&ICActionPrompt=false&ICBcDomData=&ICPanelName=&ICFind=&ICAddCount=&ICAPPCLSDATA=&SSR_CLSRCH_WRK_CAMPUS$0=COL
+
+ICAJAX=1&ICNAVTYPEDROPDOWN=1&ICType=Panel&ICElementNum=0&ICStateNum=5&ICAction=DERIVED_CLSRCH_SSR_EXPAND_COLLAPS%24149%24%242&ICModelCancel=0&ICXPos=0&ICYPos=0&ResponsetoDiffFrame=-1&TargetFrameName=None&FacetPath=None&ICFocus=&ICSaveWarningFilter=0&ICChanged=-1&ICSkipPending=0&ICAutoSave=0&ICResubmit=0&ICSID=o0oC32m%2B1bu9olOIeIxUF4%2FlB2qL4efrEm6xJvndnrY%3D&ICActionPrompt=false&ICBcDomData=&ICPanelName=&ICFind=&ICAddCount=&ICAPPCLSDATA=&SSR_CLSRCH_WRK_CAMPUS$0=COL&SSR_CLSRCH_WRK_SUBJECT_SRCH$1=
+
+ICAJAX=1&ICNAVTYPEDROPDOWN=1&ICType=Panel&ICElementNum=0&ICStateNum=6&ICAction=CLASS_SRCH_WRK2_SSR_PB_CLASS_SRCH&ICModelCancel=0&ICXPos=0&ICYPos=152&ResponsetoDiffFrame=-1&TargetFrameName=None&FacetPath=None&ICFocus=&ICSaveWarningFilter=0&ICChanged=-1&ICSkipPending=0&ICAutoSave=0&ICResubmit=0&ICSID=o0oC32m%2B1bu9olOIeIxUF4%2FlB2qL4efrEm6xJvndnrY%3D&ICActionPrompt=false&ICBcDomData=&ICPanelName=&ICFind=&ICAddCount=&ICAPPCLSDATA=&SSR_CLSRCH_WRK_SUBJECT_SRCH$1=CSE&SSR_CLSRCH_WRK_CATALOG_NBR$2=3901&SSR_CLSRCH_WRK_LAST_NAME$8=joseph
+
+ICAJAX=1&ICNAVTYPEDROPDOWN=1&ICType=Panel&ICElementNum=0&ICStateNum=7&ICAction=CLASS_SRCH_WRK2_SSR_PB_CLASS_SRCH&ICModelCancel=0&ICXPos=0&ICYPos=204&ResponsetoDiffFrame=-1&TargetFrameName=None&FacetPath=None&ICFocus=&ICSaveWarningFilter=0&ICChanged=-1&ICSkipPending=0&ICAutoSave=0&ICResubmit=0&ICSID=o0oC32m%2B1bu9olOIeIxUF4%2FlB2qL4efrEm6xJvndnrY%3D&ICActionPrompt=false&ICBcDomData=&ICPanelName=&ICFind=&ICAddCount=&ICAPPCLSDATA=&SSR_CLSRCH_WRK_SSR_OPEN_ONLY$chk$4=N
