@@ -1,12 +1,20 @@
-POST https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL HTTP/1.1
+1. Load Page
+
+GET https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL HTTP/1.1
 Connection: keep-alive
-Content-Length: 488
-Origin: https://courses.osu.edu
+Upgrade-Insecure-Requests: 1
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-Content-Type: application/x-www-form-urlencoded
-Accept: */*
-Referer: https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?PortalActualURL=https%3a%2f%2fcourses.osu.edu%2fpsc%2fcsosuct%2fEMPLOYEE%2fPUB%2fc%2fCOMMUNITY_ACCESS.CLASS_SEARCH.GBL&PortalRegistryName=EMPLOYEE&PortalServletURI=https%3a%2f%2fcourses.osu.edu%2fpsp%2fcsosuct%2f&PortalURI=https%3a%2f%2fcourses.osu.edu%2fpsc%2fcsosuct%2f&PortalHostNode=CAMP&NoCrumbs=yes&PortalKeyStruct=yes
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Accept-Language: en-US,en;q=0.9
-Cookie: NSC_NX-DTPTV-DPVSTFT-TTM-WT=ffffffff8ff60a6045525d5f4f58455e445a4a4206ab
 Host: courses.osu.edu
+
+
+HTTP/1.1 302 Moved Temporarily
+Date: Sat, 27 Oct 2018 21:48:57 GMT
+Server: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+Location: https://courses.osu.edu/psc/csosuct/EMPLOYEE/PUB/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&
+Set-Cookie: hcwebprd12-15000-PORTAL-PSJSESSIONID=uma3gGVcaUTdEsZUXYWwecPrmpsRLCYl!-1968237489; domain=.osu.edu; path=/; HttpOnly
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: NSC_NX-DTPTV-DPVSTFT-TTM-WT=ffffffff8ff60a6045525d5f4f58455e445a4a4206ab;Version=1;Max-Age=1800;path=/;secure;httponly
 
